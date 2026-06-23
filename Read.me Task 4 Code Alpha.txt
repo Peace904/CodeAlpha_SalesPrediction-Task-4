@@ -1,0 +1,55 @@
+# CodeAlpha – Sales Prediction using Python
+
+## 📌 Project Overview
+
+This project was completed as part of the **CodeAlpha Data Science Internship**.
+
+The objective is to predict future sales using machine learning by analyzing factors such as advertising expenditure, target audience, and marketing platform.
+
+## 🎯 Objectives
+
+* Clean and preprocess sales data.
+* Perform exploratory data analysis.
+* Select important features.
+* Build a sales prediction model.
+* Evaluate model performance.
+* Generate business insights.
+
+## 🛠️ Tools & Technologies
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Jupyter Notebook
+
+## 📊 Project Workflow
+
+1. Load the dataset.
+2. Clean and prepare the data.
+3. Perform exploratory data analysis.
+4. Build a regression model.
+5. Evaluate the model.
+6. Predict future sales.
+7. Provide business recommendations.
+
+## 📈 Results
+
+The model predicts future sales based on advertising and marketing factors, helping businesses make informed marketing decisions and improve resource allocation.
+
+## 📂 Project Files
+
+* Dataset
+* Python Notebook (.ipynb)
+* Python Script (.py)
+* Trained Model (if applicable)
+* Visualizations
+* README.md
+
+## 👨‍💻 Author
+
+**Blessing Kebbie**
+
+**CodeAlpha Data Science Internship**
